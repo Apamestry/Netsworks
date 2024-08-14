@@ -1,0 +1,12 @@
+design an interface called vechicle
+which include the following methods
+1)void change gear(int a)
+2)void speed up
+3)void apply break(int x)
+4)void start()
+cREATE CLASSS CAR AND BIKE that implement the above methods ,crreate another c;lass  that called test vechicle
+that includes the main method and 
+
+
+craete an interface called plan having atttribute rate per unit.
+Create a class electricity bill that attributr unit consumed.Let the class implemnt the interface plan and give value for rate per nunit,aslo create a method to compute the bill (units consumed* rate per unit)and display method .Create a seprate classs called test the above functionality

@@ -1,0 +1,16 @@
+a book can be of two types friction and non-friction .A book identifide by book idand has name,number of pages,and publisher as its attribute.Create an astrak class called book with set book details and display book details as its astract methodCreate two class frictiob and non frictiin and provide implimentation of the astract method
+
+
+2) Create an Astract class called Bank which include an satract method rate of interst .Create two class SBI and HDfC that impliments the methods rate of interest. CReate a new class to test the above functionality
+
+
+
+30
+)Create a super class called quadrilateral that has variables s1,s2,s3,s4 representing its sides and an abstract method called computeArea . classses square and rectangle extendsa the class quadrilaters and defirn the compute arae ,method
+
+
+4)design a class called figure it has tree attrbute radius  area and volume of data type double .It must have the following methods
+1)display volume
+2)dispalay Area
+design a class cone which extends the figure class and has attributes hieght ,side as double.It must have also the followinging method calculate area calculet volume
+
